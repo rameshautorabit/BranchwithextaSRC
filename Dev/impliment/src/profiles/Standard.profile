@@ -333,6 +333,14 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>Metadatafolderpath1</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>Metadatafolderpath2</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>MyHelloWorld</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -406,6 +414,10 @@
     </classAccesses>
     <classAccesses>
         <apexClass>Sep15Test1</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>TEstSRC</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
