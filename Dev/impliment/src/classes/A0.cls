@@ -2,8 +2,7 @@ public Class A0
 {
 public Account createAccount(String name)  //method to create account
 {
-//sai Add comment for Account Afdfdsfsdfsdfdsf1
-//saikumar Test1
+//ramesh added on 30thJan
 Account a01= new Account();
 a01.Name = name;
 return a01;
