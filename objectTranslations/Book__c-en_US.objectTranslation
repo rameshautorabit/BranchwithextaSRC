@@ -8,5 +8,23 @@
         <plural>true</plural>
         <value>Books</value>
     </caseValues>
+    <fields>
+        <help><!-- Select Department from the PickList --></help>
+        <label><!-- Department --></label>
+        <name>Department__c</name>
+    </fields>
+    <fields>
+        <help><!-- Enter Price here --></help>
+        <label><!-- price --></label>
+        <name>price__c</name>
+    </fields>
+    <recordTypes>
+        <label><!-- SamplerecordTypeLabel --></label>
+        <name>SamplerecordTypeName</name>
+    </recordTypes>
     <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Price cannot greater than 150 --></errorMessage>
+        <name>SampleValidationRule</name>
+    </validationRules>
 </CustomObjectTranslation>
